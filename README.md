@@ -1,3 +1,10 @@
+# About Project
+A practice MovieLand project build in `react`. See the live demo https://movieland-website.netlify.app/
+
+# Screenshot
+![image](https://github.com/AbdulMoizWali/react_movie_website/assets/85098925/eedefb4b-731b-4bf2-a025-0e66e1bf9af9)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
