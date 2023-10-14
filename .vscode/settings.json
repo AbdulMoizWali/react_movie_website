@@ -1,0 +1,14 @@
+{
+    "lit-html.tags": [
+        "html",
+        "raw",
+        "js"
+    ],
+    "editor.defaultFormatter": "bierner.lit-html",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    }
+}
