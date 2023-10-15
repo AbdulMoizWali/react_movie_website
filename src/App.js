@@ -6,7 +6,7 @@ import { ScaleLoader } from "react-spinners";
 
 // cbb093be
 
-const API_URL = "http://www.omdbapi.com?apikey=cbb093be";
+const API_URL = "https://www.omdbapi.com?apikey=cbb093be";
 const movie_types = ["all", "movie", "series", "episode"];
 let moviesData = [];
 
